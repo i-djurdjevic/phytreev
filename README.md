@@ -15,6 +15,7 @@ Depending on the input value we can then choose which algorithm we want to execu
 
 For starting the BE you need to do the following steps (Linux, Mac):
 - Position yourself inside the master-backend folder `cd master-backend`
+- Download and install latest version of Python
 - Install virtualenv `python3 -m pip install virtualenv`
 - Creating and activating virtualenv 
 `virtualenv .
