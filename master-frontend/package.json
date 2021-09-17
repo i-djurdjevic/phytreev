@@ -1,0 +1,38 @@
+{
+  "name": "vx-collapsible-radial-tree",
+  "version": "0.0.46",
+  "description": "Derived from https://vx-demo.now.sh/trees\n\nSimilar to \nhttps://bl.ocks.org/mbostock/4063550",
+  "keywords": [
+    "vx:example"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@vx/gradient": "0.0.140",
+    "@vx/group": "0.0.140",
+    "@vx/hierarchy": "0.0.141",
+    "@vx/shape": "0.0.142",
+    "axios": "^0.20.0",
+    "d3-hierarchy": "1.1.5",
+    "d3-shape": "1.2.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-matrix": "^0.0.6",
+    "react-move": "2.1.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "be": "python3 ../master-backend/app.py"
+  }
+}
