@@ -1,6 +1,8 @@
 # PhyTReeV
 
-Web app for reconstructing phylogenetic trees for different types of inputs using various algorithms with different creation methods.
+Web app for reconstructing phylogenetic trees for different types of inputs using various algorithms.
+This app is a part of my Master Thesis in Bioinformatics on Faculty of Mathematics, department of Informatics. 
+You may find the thesis in Serbian.
 
 Possible inputs would be:
 - Distance Matrix
@@ -31,7 +33,3 @@ For starting the FE part of the app you need to do the following steps (Linux, M
 - Run `yarn start`
 
 Voilà, your app is up and running!
-
-
-
-
